@@ -21,7 +21,12 @@
 ---
 
 ### DATA MODELING  
-
+#### Experian Case1: Machine Learning Application Research for Experian
+[Machine Learning Application- Experian Case](/pdf/Experian-Machine Learning Application Analysis.pdf)
+#### Experian Case2: Building up credit rating models using Python
+[Credit rating model- Experian Case](/pdf/Credit rating- Predictive model selection and interface design - Python.pdf)
+<img src="images/Credit rating- Predictive model selection and interface design - Python.png?raw=true"/>
+####  Key words: RFM | consumer segmentation | R | TABLEAU
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
