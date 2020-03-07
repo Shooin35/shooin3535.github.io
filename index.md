@@ -1,32 +1,21 @@
-## Portfolio
+## Shuyi's Portfolio
 
 ---
 
-### Category Name 1 
+### BUSINESS CASE  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Define Best Consumers- Monro Case](/pdf/Marketing analytics project - best current consumer.pdf)
+<img src="images/Monro Customer segmentation- RFM in R.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Product-line Pricing Strategy - EarlyRider Case](/pdf/EarlyRider- Product line Pricing - conjoint analysis in R.pdf)
+<img src="images/EarlyRider- Product line Pricing - conjoint analysis in R.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[New Product Lauching - Greek Yogurt Case](/pdf/Greek Yogurt-new product launching- TURF analysis using R and SQL.pdf)
+<img src="images/Greek Yogurt-new product launching- TURF analysis using R and SQL.png?raw=true"/>
 
 ---
-
 
 
 
